@@ -1,0 +1,3 @@
+﻿  Lab03.cpp
+c:\users\asus\desktop\oaip\labs\lab03\lab03\lab03.cpp(35): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lab03.vcxproj -> C:\Users\Asus\Desktop\OAIP\labs\Lab03\Debug\Lab03.exe
