@@ -1,0 +1,5 @@
+﻿  Lab06.cpp
+c:\users\asus\desktop\oaip\labs\lab06\lab06\lab06.cpp(28): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\asus\desktop\oaip\labs\lab06\lab06\lab06.cpp(26): warning C4101: 'i': unreferenced local variable
+c:\users\asus\desktop\oaip\labs\lab06\lab06\lab06.cpp(26): warning C4101: 'n': unreferenced local variable
+  Lab06.vcxproj -> C:\Users\Asus\Desktop\OAIP\labs\Lab06\Debug\Lab06.exe
