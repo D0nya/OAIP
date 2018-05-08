@@ -1,2 +1,2 @@
 ﻿  Lab02.cpp
-  Lab02.vcxproj -> C:\Users\Asus\Desktop\OAIP\labs\Lab02\Debug\Lab02.exe
+c:\users\asus\desktop\oaip\labs\lab02\lab02\lab02.cpp(322): error C2059: syntax error: 'break'
